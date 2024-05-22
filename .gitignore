@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Data Folder
+data/*
+# Mac OS specificities
+.DS_Store
